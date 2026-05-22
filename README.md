@@ -120,10 +120,10 @@ hr-analytics-dashboard/
 
 ## 👤 Author
 
-**[Your Name]**
+**LOGANATHAN.R**
 - 🎓 Fresher | Aspiring HR Analyst
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: www.linkedin.com/in/lr735
+- 📧 Email: loganathan73582@gmail.com
 
 ---
 
